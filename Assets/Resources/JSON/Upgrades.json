@@ -1,0 +1,281 @@
+{
+  "Upgrades": [
+    {
+      "Name": "Short Sword",
+      "Rarity": 1,
+      "Description": "Increases damage",
+      "Effects": {
+        "Damage": 2
+      },
+      "Price": 600
+    },
+    {
+      "Name": "Reinforced Leather Armor",
+      "Rarity": 1,
+      "Description": "Increases armor",
+      "Effects": {
+        "Armor": 2
+      },
+      "Price": 400
+    },
+    {
+      "Name": "Swift Reload",
+      "Rarity": 1,
+      "Description": "Reduces reload time",
+      "Effects": {
+        "CD": 2
+      },
+      "Price": 600
+    },   
+    {
+      "Name": "Vitality Elixir",
+      "Rarity": 1,
+      "Description": "Increases max life",
+      "Effects": {
+        "Max Health": 1,
+        "Healing": 2
+      },
+      "Price": 600
+    },
+    {
+      "Name": "Vitality Enhancement",
+      "Rarity": 1,
+      "Description": "Heal you",
+      "Effects": {
+        "Healing": 3
+      },
+      "Price": 600
+    },
+    {
+      "Name": "Damage Boost Serum",
+      "Rarity": 1,
+      "Description": "Increases damage and reduces reload time",
+      "Effects": {
+        "Damage": 1,
+        "CD": 1
+      },
+      "Price": 600
+    },
+    {
+      "Name": "Swift Dagger",
+      "Rarity": 1,
+      "Description": "Reduces reload time and increases armor",
+      "Effects": {
+        "CD": 1,
+        "Armor": 2
+      },
+      "Price": 700
+    },
+
+    {
+      "Name": "Enhanced Dagger",
+      "Rarity": 1,
+      "Description": "Increases damage and reduces reload time",
+      "Effects": {
+        "Damage": 1,
+        "CD": 2
+      },
+      "Price": 900
+    },
+    {
+      "Name": "soldier Tonic",
+      "Rarity": 1,
+      "Description": "increases armor and damage",
+      "Effects": {
+        "Armor": 2,
+        "Damage": 1
+      },
+      "Price": 700
+    },
+    {
+      "Name": "Enhanced Short Bow",
+      "Rarity": 1,
+      "Description": "Increases damage and armor",
+      "Effects": {
+        "Damage": 1,
+        "Armor": 1
+      },
+      "Price": 500
+    },
+    {
+      "Name": "Reinforced Plate Armor",
+      "Rarity": 1,
+      "Description": "Increases armor",
+      "Effects": {
+        "Armor": 3
+      },
+      "Price": 600
+    },
+    {
+      "Name": "Minor Healing Poultice",
+      "Rarity": 1,
+      "Description": "Restores life and increase max life",
+      "Effects": {
+        "Max Health":2,
+        "Healing": 3
+      },
+      "Price": 800
+    },
+    {
+      "Name": "Vitality Elixir",
+      "Rarity": 2,
+      "Description": "Increases max life and heal",
+      "Effects": {
+        "Max Health": 3,
+        "Healing": 1
+      },
+      "Price": 1200
+    },
+    {
+      "Name": "Advanced Bullets",
+      "Rarity": 2,
+      "Description": "Increases damage and reduces CD",
+      "Effects": {
+        "Damage": 3,
+        "CD":3
+      },
+      "Price": 1200
+    },
+    {
+      "Name": "ShieldGun",
+      "Rarity": 2,
+      "Description": "increases armor and damage",
+      "Effects": {
+        "Armor": 4,
+        "Damage": 1
+      },
+      "Price": 1100
+    },
+    {
+      "Name": "Advanced Dagger",
+      "Rarity": 2,
+      "Description": "Increases armor and shoot speed",
+      "Effects": {
+        "Armor": 3,
+        "CD":3
+      },
+      "Price": 1500
+    },
+    {
+      "Name": "Medical Rifle",
+      "Rarity": 2,
+      "Description": "Increases damage and heal",
+      "Effects": {
+        "Damage": 2,
+        "Healing": 3
+      },
+      "Price": 1200
+    },
+    {
+      "Name": "strange meat",
+      "Rarity": 2,
+      "Description": "Increase max life and armor",
+      "Effects": {
+        "Max Health": 3,
+        "Armor": 3
+      },
+      "Price": 1200
+    },
+    {
+      "Name": "Advanced Rifle",
+      "Rarity": 3,
+      "Description": "Increases damage and reduces reload time",
+      "Effects": {
+        "Damage": 4,
+        "CD": 3
+      },
+      "Price": 2400
+    },
+    {
+      "Name": "Energy Surge Blaster",
+      "Rarity": 3,
+      "Description": "Increases damage, armor and reduces reload time",
+      "Effects": {
+        "Damage": 3,
+        "CD": 2,
+        "Armor":3
+      },
+      "Price": 2100
+    },
+    {
+      "Name": "M",
+      "Rarity": 3,
+      "Description": "Reduces reload time, heal and its funny",
+      "Effects": {
+        "CD": 3,
+        "Healing": 5
+      },
+      "Price": 1900
+    },
+    {
+      "Name": "Elixir of Immortality",
+      "Rarity": 3,
+      "Description": "Dramatically increases max life and heal you",
+      "Effects": {
+        "Max Health": 4,
+        "Healing": 4
+      },
+      "Price": 1500
+    },
+    {
+      "Name": "Ultimate Soldier elixir",
+      "Rarity": 4,
+      "Description": "Transcendental damage, armor and reduces reload time",
+      "Effects": {
+        "Damage": 5,
+        "Armor":5,
+        "cd":3
+      },
+      "Price": 3100
+    },
+    {
+      "Name": "Divine Vitality Elixir",
+      "Rarity": 4,
+      "Description": "Transcendental max life boost and armor increase",
+      "Effects": {
+        "Max Health": 5,
+        "Healing": 5,
+        "Armor": 5
+      },
+      "Price": 3000
+    },
+    {
+      "Name": "Aegis Nanite Infusion",
+      "Rarity": 4,
+      "Description": "Ultimate Damage, healing and max life",
+      "Effects": {
+        "Damage": 5,
+        "Healing": 5,
+        "Max Health": 5
+      },
+      "Price": 3500
+    },
+    {
+      "Name": "GunShot",
+      "Rarity": 5,
+      "Description": "",
+      "Effects": {
+        "Weapon": 1
+      },
+      "Price": 2000
+    },
+    {
+      "Name": "Submachinegun",
+      "Rarity": 5,
+      "Description": "",
+      "Effects": {
+        "Weapon": 2
+      },
+      "Price": 2000
+    },
+    {
+      "Name": "DoubleJump",
+      "Rarity": 5,
+      "Description": "",
+      "Effects": {
+        "Jump": 1
+      },
+      "Price": 2000
+    }
+  ]
+}
